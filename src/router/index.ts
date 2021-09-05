@@ -12,6 +12,11 @@ const routes: Array<RouteConfig> = [
     component: NewsList,
   },
   {
+    path: '/index.html',
+    name: 'NewsList',
+    component: NewsList,
+  },
+  {
     path: '/NewsDetail',
     name: 'NewsDetail',
     component: NewsDetail,
