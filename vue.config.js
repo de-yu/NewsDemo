@@ -1,6 +1,6 @@
 module.exports = {
   productionSourceMap: false,
-  publicPath: './',
+  publicPath: '/NewsDemo/dist/',
   transpileDependencies: [
     'vuetify',
   ],
