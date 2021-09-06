@@ -1,6 +1,6 @@
 # newsdemo
 
-## Project setup
+### 引入專案需要 module
 ```
 npm install
 ```
